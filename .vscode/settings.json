@@ -1,0 +1,7 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.project.referencedLibraries": [
+    "/Users/rashed/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar",
+    "/Users/rashed/.m2/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar"
+  ]
+}
